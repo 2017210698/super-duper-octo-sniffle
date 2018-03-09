@@ -13,4 +13,4 @@ Israel Zúñiga de la Mora
 
 
 ---
-Copyleft (c) 2018 SoRights Reserved.
+Copyleft (c) 2018 Some Rights Reserved.
